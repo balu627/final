@@ -33,9 +33,7 @@
         background-size: cover;
         background-position: center;
     }
-    .topbar {
-    margin-top:0px;
-    	padding-top:0px;
+    .topbar {;
             background-color: #004466;
             color: white;
             padding: 15px;
